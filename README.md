@@ -1,5 +1,4 @@
 # NVDI
-wrote later
 Hi there.
 This is a web-service for agricultural technologies, there we calculate NDVI for chosen area.
 It's simple to use, first of all u need to get GeoJSON file with bounds of chosen area.
