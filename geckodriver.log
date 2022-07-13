@@ -1,0 +1,482 @@
+1657618364806	geckodriver	INFO	Listening on 127.0.0.1:49892
+1657618957727	geckodriver	INFO	Listening on 127.0.0.1:50023
+1657619152341	geckodriver	INFO	Listening on 127.0.0.1:50044
+1657619557823	geckodriver	INFO	Listening on 127.0.0.1:49955
+1657619829642	geckodriver	INFO	Listening on 127.0.0.1:50451
+1657619832683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileARqycl"
+*** You are running in headless mode.
+1657619833307	Marionette	INFO	Marionette enabled
+1657619833315	Marionette	INFO	Listening on port 50462
+WebDriver BiDi listening on ws://localhost:50452
+Read port: 50462
+1657619833499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileARqycl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50452/devtools/browser/fb7d502d-67ff-4c17-97ef-8cd5dd17712b
+1657619843475	Marionette	INFO	Stopped listening on port 50462
+1657619906806	geckodriver	INFO	Listening on 127.0.0.1:50738
+1657619910068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofile1h6oyj"
+*** You are running in headless mode.
+1657619910880	Marionette	INFO	Marionette enabled
+1657619910891	Marionette	INFO	Listening on port 50757
+WebDriver BiDi listening on ws://localhost:50739
+Read port: 50757
+1657619911150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofile1h6oyj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50739/devtools/browser/f2402a25-b409-4c85-9376-77966fc51c53
+1657619924385	Marionette	INFO	Stopped listening on port 50757
+1657620028599	geckodriver	INFO	Listening on 127.0.0.1:51017
+1657620031640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileJAEHTL"
+*** You are running in headless mode.
+1657620032084	Marionette	INFO	Marionette enabled
+1657620032094	Marionette	INFO	Listening on port 51027
+WebDriver BiDi listening on ws://localhost:51018
+Read port: 51027
+1657620032385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileJAEHTL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51018/devtools/browser/09f39e94-6ce4-48d0-86c9-99842243aa82
+1657620041972	Marionette	INFO	Stopped listening on port 51027
+1657620214456	geckodriver	INFO	Listening on 127.0.0.1:51677
+1657620217498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilesQ3Udl"
+*** You are running in headless mode.
+1657620217906	Marionette	INFO	Marionette enabled
+1657620217911	Marionette	INFO	Listening on port 51692
+WebDriver BiDi listening on ws://localhost:51678
+Read port: 51692
+1657620218023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilesQ3Udl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51678/devtools/browser/b80f76a7-7095-4a3b-b695-bfe00dd979e6
+1657620226749	Marionette	INFO	Stopped listening on port 51692
+1657620241345	geckodriver	INFO	Listening on 127.0.0.1:51800
+1657620244394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileP9XX3E"
+*** You are running in headless mode.
+1657620245397	Marionette	INFO	Marionette enabled
+1657620245407	Marionette	INFO	Listening on port 51814
+WebDriver BiDi listening on ws://localhost:51801
+Read port: 51814
+1657620245607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileP9XX3E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51801/devtools/browser/8c987559-7069-46c7-b41a-4a4f9783406d
+1657620255581	Marionette	INFO	Stopped listening on port 51814
+1657620380183	geckodriver	INFO	Listening on 127.0.0.1:52024
+1657620383214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilePzGWlf"
+*** You are running in headless mode.
+1657620383614	Marionette	INFO	Marionette enabled
+1657620383621	Marionette	INFO	Listening on port 52034
+WebDriver BiDi listening on ws://localhost:52025
+Read port: 52034
+1657620383742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilePzGWlf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52025/devtools/browser/32641333-702a-4b5f-bbd9-5e6284272a49
+1657620392711	Marionette	INFO	Stopped listening on port 52034
+1657620410271	geckodriver	INFO	Listening on 127.0.0.1:52120
+1657620413293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileTwLqYG"
+*** You are running in headless mode.
+1657620413715	Marionette	INFO	Marionette enabled
+1657620413720	Marionette	INFO	Listening on port 52130
+WebDriver BiDi listening on ws://localhost:52121
+Read port: 52130
+1657620413837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileTwLqYG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52121/devtools/browser/3c66c56b-f577-4ddf-a34b-ecde108c2e86
+1657620422566	Marionette	INFO	Stopped listening on port 52130
+1657620492939	geckodriver	INFO	Listening on 127.0.0.1:52273
+1657620495976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileNXgHDc"
+*** You are running in headless mode.
+1657620496345	Marionette	INFO	Marionette enabled
+1657620496349	Marionette	INFO	Listening on port 52283
+WebDriver BiDi listening on ws://localhost:52274
+Read port: 52283
+1657620496561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileNXgHDc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52274/devtools/browser/b7fe9b63-08fb-425d-811f-12afb7c495c2
+1657620505092	Marionette	INFO	Stopped listening on port 52283
+1657620589289	geckodriver	INFO	Listening on 127.0.0.1:52451
+1657620592345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileCaKXNU"
+*** You are running in headless mode.
+1657620592729	Marionette	INFO	Marionette enabled
+1657620592734	Marionette	INFO	Listening on port 52462
+WebDriver BiDi listening on ws://localhost:52452
+Read port: 52462
+1657620592958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileCaKXNU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52452/devtools/browser/734aa50c-2007-439e-9c31-aebdba07048c
+1657620601853	Marionette	INFO	Stopped listening on port 52462
+1657627328400	geckodriver	INFO	Listening on 127.0.0.1:55157
+1657627331458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilexULWXn"
+*** You are running in headless mode.
+1657627332309	Marionette	INFO	Marionette enabled
+1657627332321	Marionette	INFO	Listening on port 55167
+WebDriver BiDi listening on ws://localhost:55158
+Read port: 55167
+1657627332529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilexULWXn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55158/devtools/browser/dfff7ca4-9c43-45b4-8596-89b4ced1a1dc
+1657627342481	Marionette	INFO	Stopped listening on port 55167
+1657628227439	geckodriver	INFO	Listening on 127.0.0.1:55453
+1657628230493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilerzlEqj"
+*** You are running in headless mode.
+1657628231261	Marionette	INFO	Marionette enabled
+1657628231270	Marionette	INFO	Listening on port 55465
+WebDriver BiDi listening on ws://localhost:55454
+Read port: 55465
+1657628231473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilerzlEqj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55454/devtools/browser/07638f00-f900-440a-8ab5-057c3a20a1e7
+1657628241279	Marionette	INFO	Stopped listening on port 55465
+1657628415657	geckodriver	INFO	Listening on 127.0.0.1:55605
+1657628418711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileWwZbLF"
+*** You are running in headless mode.
+1657628419686	Marionette	INFO	Marionette enabled
+1657628419695	Marionette	INFO	Listening on port 55615
+WebDriver BiDi listening on ws://localhost:55606
+Read port: 55615
+1657628419897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileWwZbLF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55606/devtools/browser/f4b45728-332a-4ce4-a982-529f23b9f14b
+1657628429412	Marionette	INFO	Stopped listening on port 55615
+1657628500517	geckodriver	INFO	Listening on 127.0.0.1:55717
+1657628503554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileCXdGgs"
+*** You are running in headless mode.
+1657628504125	Marionette	INFO	Marionette enabled
+1657628504131	Marionette	INFO	Listening on port 55727
+WebDriver BiDi listening on ws://localhost:55718
+Read port: 55727
+1657628504512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileCXdGgs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55718/devtools/browser/ef59b96e-d64c-4e02-8e09-1e1f2bcf8532
+1657628514072	Marionette	INFO	Stopped listening on port 55727
+1657628578038	geckodriver	INFO	Listening on 127.0.0.1:55840
+1657628581106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilen29jaU"
+*** You are running in headless mode.
+1657628582050	Marionette	INFO	Marionette enabled
+1657628582061	Marionette	INFO	Listening on port 55850
+WebDriver BiDi listening on ws://localhost:55841
+Read port: 55850
+1657628582378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilen29jaU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55841/devtools/browser/0488957b-f537-4991-a1c1-608a18856fbd
+1657628592094	Marionette	INFO	Stopped listening on port 55850
+1657628657918	geckodriver	INFO	Listening on 127.0.0.1:55159
+1657628660945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileetGsYT"
+*** You are running in headless mode.
+1657628661755	Marionette	INFO	Marionette enabled
+1657628661766	Marionette	INFO	Listening on port 55169
+WebDriver BiDi listening on ws://localhost:55160
+Read port: 55169
+1657628661963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileetGsYT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55160/devtools/browser/f8b3eef4-52ac-48e6-a24e-42f87d7877eb
+1657628672242	Marionette	INFO	Stopped listening on port 55169
+1657628733972	geckodriver	INFO	Listening on 127.0.0.1:55295
+1657628737037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilepHsVCs"
+*** You are running in headless mode.
+1657628737650	Marionette	INFO	Marionette enabled
+1657628737656	Marionette	INFO	Listening on port 55305
+WebDriver BiDi listening on ws://localhost:55296
+Read port: 55305
+1657628737819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilepHsVCs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55296/devtools/browser/9ab0ee95-9ceb-42d0-b45c-a23ed7d6825e
+1657628747330	Marionette	INFO	Stopped listening on port 55305
+1657628796308	geckodriver	INFO	Listening on 127.0.0.1:57661
+1657628799367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileDpW7B3"
+*** You are running in headless mode.
+1657628799932	Marionette	INFO	Marionette enabled
+1657628799937	Marionette	INFO	Listening on port 57671
+WebDriver BiDi listening on ws://localhost:57662
+Read port: 57671
+1657628800084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileDpW7B3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57662/devtools/browser/998aa14e-64ac-4662-b211-3b830655452c
+1657628809674	Marionette	INFO	Stopped listening on port 57671
+1657629241261	geckodriver	INFO	Listening on 127.0.0.1:57983
+1657629244325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilewCMZ6V"
+*** You are running in headless mode.
+1657629245277	Marionette	INFO	Marionette enabled
+1657629245284	Marionette	INFO	Listening on port 57995
+WebDriver BiDi listening on ws://localhost:57984
+Read port: 57995
+1657629245481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilewCMZ6V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57984/devtools/browser/afd755df-3fb6-450e-b879-c68337d57d28
+1657629255054	Marionette	INFO	Stopped listening on port 57995
+1657629902883	geckodriver	INFO	Listening on 127.0.0.1:52076
+1657629905937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilejaJZ6i"
+*** You are running in headless mode.
+1657629906748	Marionette	INFO	Marionette enabled
+1657629906754	Marionette	INFO	Listening on port 52089
+Read port: 52089
+WebDriver BiDi listening on ws://localhost:52077
+1657629906946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilejaJZ6i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52077/devtools/browser/cf428ef8-8095-4ed2-86f5-8248eae89588
+1657629916750	Marionette	INFO	Stopped listening on port 52089
+1657630168659	geckodriver	INFO	Listening on 127.0.0.1:63923
+1657630171724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilebuZAIt"
+*** You are running in headless mode.
+1657630172246	Marionette	INFO	Marionette enabled
+1657630172251	Marionette	INFO	Listening on port 63933
+WebDriver BiDi listening on ws://localhost:63924
+Read port: 63933
+1657630172410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilebuZAIt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63924/devtools/browser/e69e2bd8-27d8-4a6e-8a3a-8fccbc685455
+1657630181549	Marionette	INFO	Stopped listening on port 63933
+1657630285944	geckodriver	INFO	Listening on 127.0.0.1:63294
+1657630288998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofile4BQ008"
+*** You are running in headless mode.
+1657630289544	Marionette	INFO	Marionette enabled
+1657630289549	Marionette	INFO	Listening on port 63306
+WebDriver BiDi listening on ws://localhost:63295
+Read port: 63306
+1657630289702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofile4BQ008\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63295/devtools/browser/72d8b841-d973-4413-a592-45de22f23277
+1657630298527	Marionette	INFO	Stopped listening on port 63306
+1657630460155	geckodriver	INFO	Listening on 127.0.0.1:52069
+1657630463207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilealckIs"
+*** You are running in headless mode.
+1657630463790	Marionette	INFO	Marionette enabled
+1657630463796	Marionette	INFO	Listening on port 52079
+WebDriver BiDi listening on ws://localhost:52070
+Read port: 52079
+1657630464096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilealckIs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52070/devtools/browser/8bb73b36-664a-4f5d-9402-889a22f1f825
+1657630472779	Marionette	INFO	Stopped listening on port 52079
+1657630875446	geckodriver	INFO	Listening on 127.0.0.1:58670
+1657630878509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileOyuBX4"
+*** You are running in headless mode.
+1657630879037	Marionette	INFO	Marionette enabled
+1657630879046	Marionette	INFO	Listening on port 58682
+WebDriver BiDi listening on ws://localhost:58671
+Read port: 58682
+1657630879199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileOyuBX4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58671/devtools/browser/d4587f33-ced2-455c-b14e-181976bf5d87
+1657631065039	geckodriver	INFO	Listening on 127.0.0.1:55409
+1657631068093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilebNIEzm"
+*** You are running in headless mode.
+1657631068720	Marionette	INFO	Marionette enabled
+1657631068733	Marionette	INFO	Listening on port 55421
+WebDriver BiDi listening on ws://localhost:55410
+Read port: 55421
+1657631068927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilebNIEzm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55410/devtools/browser/23b5f20d-a3a9-481d-8b71-fda4875c0222
+1657631123001	geckodriver	INFO	Listening on 127.0.0.1:55480
+1657631126047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileAQ2CkA"
+*** You are running in headless mode.
+1657631126548	Marionette	INFO	Marionette enabled
+1657631126554	Marionette	INFO	Listening on port 55498
+WebDriver BiDi listening on ws://localhost:55481
+Read port: 55498
+1657631126715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileAQ2CkA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55481/devtools/browser/5cfc29d2-42ab-4f7b-a64e-6b31f9b32180
+1657631141592	Marionette	INFO	Stopped listening on port 55498
+1657631166372	geckodriver	INFO	Listening on 127.0.0.1:55587
+1657631169411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilec7v0oI"
+*** You are running in headless mode.
+1657631169907	Marionette	INFO	Marionette enabled
+1657631169912	Marionette	INFO	Listening on port 55599
+WebDriver BiDi listening on ws://localhost:55588
+Read port: 55599
+1657631170053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilec7v0oI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55588/devtools/browser/c440b7f9-d7e2-439c-8325-ea7db58c44ba
+1657631183908	Marionette	INFO	Stopped listening on port 55599
+1657631449935	geckodriver	INFO	Listening on 127.0.0.1:55833
+1657631452971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileXNTVmH"
+*** You are running in headless mode.
+1657631453578	Marionette	INFO	Marionette enabled
+1657631453588	Marionette	INFO	Listening on port 55843
+WebDriver BiDi listening on ws://localhost:55834
+Read port: 55843
+1657631453796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileXNTVmH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55834/devtools/browser/dc869829-eb65-4b9d-ade5-1c691c802bf5
+1657631468715	Marionette	INFO	Stopped listening on port 55843
+1657631694703	geckodriver	INFO	Listening on 127.0.0.1:56031
+1657631697771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56032" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileTfds6m"
+*** You are running in headless mode.
+1657631698397	Marionette	INFO	Marionette enabled
+1657631698406	Marionette	INFO	Listening on port 56042
+WebDriver BiDi listening on ws://localhost:56032
+Read port: 56042
+1657631698577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileTfds6m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56032/devtools/browser/ecb92cf1-5f87-4ed1-b34d-6289266c30ff
+1657631713086	Marionette	INFO	Stopped listening on port 56042
+1657631819060	geckodriver	INFO	Listening on 127.0.0.1:56191
+1657631822125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofile5vvDmL"
+*** You are running in headless mode.
+1657631822856	Marionette	INFO	Marionette enabled
+1657631822863	Marionette	INFO	Listening on port 56201
+WebDriver BiDi listening on ws://localhost:56192
+Read port: 56201
+1657631823037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofile5vvDmL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56192/devtools/browser/dc49861a-fdfb-4555-8f60-0ab8744b8c50
+1657631837459	Marionette	INFO	Stopped listening on port 56201
+1657631924850	geckodriver	INFO	Listening on 127.0.0.1:56309
+1657631927900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilelwaicT"
+*** You are running in headless mode.
+1657631928533	Marionette	INFO	Marionette enabled
+1657631928544	Marionette	INFO	Listening on port 56319
+WebDriver BiDi listening on ws://localhost:56310
+Read port: 56319
+1657631928733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilelwaicT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56310/devtools/browser/48735900-d56a-44b6-9c89-5b94b702943c
+1657631943458	Marionette	INFO	Stopped listening on port 56319
+1657632098552	geckodriver	INFO	Listening on 127.0.0.1:56487
+1657632101606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileFR0nwo"
+*** You are running in headless mode.
+1657632102186	Marionette	INFO	Marionette enabled
+1657632102194	Marionette	INFO	Listening on port 56499
+WebDriver BiDi listening on ws://localhost:56488
+Read port: 56499
+1657632102384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileFR0nwo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56488/devtools/browser/7337aabf-b2df-4a83-afa2-976d1fd4eaa5
+1657632116703	Marionette	INFO	Stopped listening on port 56499
+1657632240126	geckodriver	INFO	Listening on 127.0.0.1:56664
+1657632243173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileeZL849"
+*** You are running in headless mode.
+1657632243854	Marionette	INFO	Marionette enabled
+1657632243862	Marionette	INFO	Listening on port 56680
+WebDriver BiDi listening on ws://localhost:56665
+Read port: 56680
+1657632244067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileeZL849\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56665/devtools/browser/f8ae485b-dd6f-4519-a3f5-c1e21d3fcce2
+1657632259057	Marionette	INFO	Stopped listening on port 56680
+1657632283260	geckodriver	INFO	Listening on 127.0.0.1:65428
+1657632286313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileqApCW0"
+*** You are running in headless mode.
+1657632286923	Marionette	INFO	Marionette enabled
+1657632286931	Marionette	INFO	Listening on port 65438
+WebDriver BiDi listening on ws://localhost:65429
+Read port: 65438
+1657632287106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileqApCW0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65429/devtools/browser/a197511c-a7d5-4247-a5e4-e28462e60907
+1657632301988	Marionette	INFO	Stopped listening on port 65438
+1657700204385	geckodriver	INFO	Listening on 127.0.0.1:51279
+1657700207494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilevcl8A6"
+*** You are running in headless mode.
+1657700208019	Marionette	INFO	Marionette enabled
+1657700208025	Marionette	INFO	Listening on port 51289
+WebDriver BiDi listening on ws://localhost:51280
+Read port: 51289
+1657700208158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilevcl8A6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51280/devtools/browser/065b85e5-f8ce-40a9-adb3-ab6c506e2e94
+1657700218494	Marionette	INFO	Stopped listening on port 51289
+1657700338763	geckodriver	INFO	Listening on 127.0.0.1:51394
+1657700341830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileGtMyIQ"
+*** You are running in headless mode.
+1657700342191	Marionette	INFO	Marionette enabled
+1657700342195	Marionette	INFO	Listening on port 51404
+WebDriver BiDi listening on ws://localhost:51395
+Read port: 51404
+1657700342440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileGtMyIQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51395/devtools/browser/b29fd3e7-a0de-4fc4-ae1b-455f33fa4a61
+1657700352464	Marionette	INFO	Stopped listening on port 51404
+1657700425007	geckodriver	INFO	Listening on 127.0.0.1:51559
+1657700428053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilesXlWDq"
+*** You are running in headless mode.
+1657700428454	Marionette	INFO	Marionette enabled
+1657700428459	Marionette	INFO	Listening on port 51569
+WebDriver BiDi listening on ws://localhost:51560
+Read port: 51569
+1657700428564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilesXlWDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51560/devtools/browser/edeef00c-366e-4467-b750-3944123de9ee
+1657700438977	Marionette	INFO	Stopped listening on port 51569
+1657703826021	geckodriver	INFO	Listening on 127.0.0.1:51963
+1657703829060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileIa7wtw"
+*** You are running in headless mode.
+1657703829529	Marionette	INFO	Marionette enabled
+1657703829534	Marionette	INFO	Listening on port 51973
+WebDriver BiDi listening on ws://localhost:51964
+Read port: 51973
+1657703829816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileIa7wtw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51964/devtools/browser/80dd78b4-b538-4c5b-a214-675447c2214d
+1657703839682	Marionette	INFO	Stopped listening on port 51973
+1657703906965	geckodriver	INFO	Listening on 127.0.0.1:52077
+1657703910008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileYBi6l7"
+*** You are running in headless mode.
+1657703910378	Marionette	INFO	Marionette enabled
+1657703910382	Marionette	INFO	Listening on port 52087
+WebDriver BiDi listening on ws://localhost:52078
+Read port: 52087
+1657703910632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileYBi6l7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52078/devtools/browser/87564d02-a1f2-4460-acd5-836d144024c1
+1657703920811	Marionette	INFO	Stopped listening on port 52087
+1657724623773	geckodriver	INFO	Listening on 127.0.0.1:49345
+1657724626873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilezgGgLY"
+*** You are running in headless mode.
+1657724627512	Marionette	INFO	Marionette enabled
+1657724627519	Marionette	INFO	Listening on port 49355
+WebDriver BiDi listening on ws://localhost:49346
+Read port: 49355
+1657724627664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofilezgGgLY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49346/devtools/browser/bbfe2980-d01e-4c5a-ba03-e9b1785d2553
+1657724638259	Marionette	INFO	Stopped listening on port 49355
+1657724911114	geckodriver	INFO	Listening on 127.0.0.1:49487
+1657724914162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileCbuGj2"
+*** You are running in headless mode.
+1657724914708	Marionette	INFO	Marionette enabled
+1657724914714	Marionette	INFO	Listening on port 49497
+Read port: 49497
+WebDriver BiDi listening on ws://localhost:49488
+1657724914883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\rust_mozprofileCbuGj2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49488/devtools/browser/b24fbbb4-c415-43cc-b79b-43f923618b11
+1657724925308	Marionette	INFO	Stopped listening on port 49497
